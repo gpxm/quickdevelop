@@ -15,9 +15,4 @@ class Tool
     {
         echo __FUNCTION__;
     }
-
-    public static function test()
-    {
-        echo "test";
-    }
 }
