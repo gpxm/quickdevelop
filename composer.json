@@ -1,6 +1,6 @@
 {
-    "name": "lucas/quickdevelop",
-    "description": "快速开发",
+    "name": "nicktyx/quickdevelop",
+    "description": "实现快速开发",
     "type": "project",
     "license": "MIT",
     "minimum-stability": "dev",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Quick\\develop\\": "src/quick/develop"
+            "nicktyx\\develop\\": "src/quick/develop"
         }
     }
 }

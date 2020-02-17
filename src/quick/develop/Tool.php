@@ -6,7 +6,7 @@
  * Time: 8:27 PM
  */
 
-namespace Quick\develop;
+namespace nicktyx\develop;
 
 
 class Tool
