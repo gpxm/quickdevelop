@@ -1,0 +1,21 @@
+{
+    "name": "lucas/quickdevelop",
+    "description": "快速开发",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "lucas",
+            "email": "1598185583@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Quick\\develop\\": "src/quick/develop"
+        }
+    }
+}
