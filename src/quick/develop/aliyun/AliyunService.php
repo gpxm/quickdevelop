@@ -11,7 +11,7 @@ namespace nicktyx\develop\aliyun;
 
 class AliyunService
 {
-    public function index()
+    public static function index()
     {
         echo "index";
     }
