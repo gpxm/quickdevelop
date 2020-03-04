@@ -8,3 +8,8 @@
 
 require_once "../vendor/autoload.php";
 
+$user = new \nicktyx\develop\core\User();
+\nicktyx\develop\core\Container::set('user', $user);
+
+\nicktyx\develop\core\facade\User::index();
+
